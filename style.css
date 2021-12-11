@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  font-family: arial;
+  color: white;
+}
+
+h1 {
+  color: grey;
+  font-family: verdana;
+}
+
+.maindiv {
+  border: 2px, black, double;
+  background-color: rgb(241, 240, 231);
+  color: black;
+  width: 300px;
+  height: 400px;
+  padding: 20px;
+  border-radius: 25px;
+  align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  background-color: blanchedalmond;
+}
+
+.result {
+  display: none;
+}
